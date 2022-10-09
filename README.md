@@ -1,5 +1,5 @@
 # odin-recipes
-Yay, this my first odin project. I really feel confident
+Yay, this is my first odin project. I really feel confident
 
 What have I learned?
 
