@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: rgba(158, 151, 151, 0.63);
+    font-family: Arial;
+}
+
+a {
+    background-color: rgba(245, 245, 101, 0.911);
+    color: red;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.cheff {
+    height: auto;
+    width: 300px;
+}
+
+.index-h {
+    color: crimson;
+}
+
+.content {
+    text-align: left;
+    background-color: rgba(171, 192, 221, 0.61);
+}
+
+#burger-img {
+    height: auto;
+    width: 400px;
+}
+
+h2 {
+    background-color: yellow;
+    font-family: Arial; 
+}
+
+.title-content {
+    color: darkgreen;
+}
+
+.kebabs {
+    height: auto;
+    width: 400px;
+}
+
+.pizza {
+    height: auto;
+    width: 400px;
+}
